@@ -1,0 +1,7 @@
+.my-box-model {
+  padding: 10px;
+  border: 5px solid blue;
+  background-color: red;
+  margin: 10px;
+  box-sizing: border-box;
+}
